@@ -4,7 +4,7 @@
 
 ### Project Description
 
-This is the 2nd project for the Machine Learning Engineer Nanodegree. In this project, we use the Boston Housing dataset to train an optimal decision tree algorithm to predict the best selling price of a home in Boston based on certain features of the homes and statistical analysis. 
+This is the 2nd project for the Machine Learning Engineer Nanodegree. In this project, I used the Boston Housing dataset to train an optimal decision tree algorithm to predict the best selling price of a home in Boston based on certain features of the homes and statistical analysis. 
 
 The dataset for this project contains aggregated data on various features for houses in Greater Boston communities, including the median value of homes for each of those areas. This dataset was preprocessed through log transformations (to reduce impact of highly skewed features), feature scaling (to ensure the features were treated equally) and one-hot-encoding (to treat non-numeric features).
 
@@ -19,9 +19,9 @@ This project requires **Python 2.7** and the following Python libraries installe
 - [matplotlib](http://matplotlib.org/)
 - [scikit-learn](http://scikit-learn.org/stable/)
 
-You will also need to have software installed to run and execute a [Jupyter Notebook](http://ipython.org/notebook.html)
+Please note that Jupiter Notebook [Jupyter Notebook](http://ipython.org/notebook.html) is needed.
 
-If you do not have Python installed yet, it is highly recommended that you install the [Anaconda](http://continuum.io/downloads) distribution of Python, which already has the above packages and more included. Make sure that you select the Python 2.7 installer and not the Python 3.x installer.
+To install Python, you can install the [Anaconda](http://continuum.io/downloads) distribution of Python, which already has the above packages and more included. However, the Python 2.7 installer should be selected and not the Python 3.x installer.
 
 ### Code
 
